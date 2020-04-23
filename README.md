@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Programming Techniques</h1>
   <p align="center">
-      Lab 1: Sorting algorithms
+      Lab 3: Hash algorithms and Hash tables
   </p> 
   <p align="center">
     <a href="https://nbviewer.jupyter.org/github/mitinarseny/HSEProgTechLab3/blob/master/report.ipynb?flush=true">
@@ -9,10 +9,6 @@
     </a>   
   </p> 
 </p>
-
-## Generate data
-
-Test data is generated with [jg](https://github.com/mitinarseny/jg), so make sure it is your `$PATH`.
 
 ## Test
 
